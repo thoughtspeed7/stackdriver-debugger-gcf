@@ -1,0 +1,14 @@
+{
+  "name": "stackdriver-debugger-gcf",
+  "version": "1.0.0",
+  "description": "Stackdriver Debugger on Google Cloud Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/debug-agent": "^2.5.1"
+  }
+}
